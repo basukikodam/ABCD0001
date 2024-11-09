@@ -132,10 +132,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",🇮🇩 SCTV 🇮🇩
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",🇮🇩 Indosiar 🇮🇩
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",🇮🇩 ANTV 🇮🇩
-http://210.210.155.35:80/uq2663/h/h235/index.m3u8
+
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="http://kamiselaluada.com/img/net.png",🇮🇩 NET TV 🇮🇩
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
@@ -149,6 +149,21 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="🇮🇩 NASIONAL 🇮🇩",Trans 7 CDG 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://cdn.macan.tv/img/tvone.png",TVONE
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://cdn.macan.tv/img/metrotv.png",METRO TV
+https://cdn09jtedge.indihometv.com/joss/133/metrotv/index.m3u8
+
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://cdn.macan.tv/img/kompastv.png",KOMPAS TV
+https://cdn09jtedge.indihometv.com/joss/133/kompastv/index.m3u8
+
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://assets-a1.kompasiana.com/items/album/2021/10/10/logo-baru-istimewa-6162e92124da920a8a607312.png",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
+
+
+
 
 //========================================================================
 //>>> INDONESIA TV
