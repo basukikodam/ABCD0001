@@ -112,32 +112,42 @@ https://j.top4top.io/m_32004nqq61.mp4
 
 
 
-               ########## "CC | RCTI" ##########
+               ########## "🇮🇩 NASIONAL 🇮🇩" ##########
 
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="RCTI+",RCTI (R+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="🇮🇩 NASIONAL 🇮🇩",RCTI (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="RCTI+",GTV (R+)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="🇮🇩 NASIONAL 🇮🇩",GTV (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="RCTI+",MNCTV (R+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="🇮🇩 NASIONAL 🇮🇩",MNCTV (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",🇮🇩 SCTV 🇮🇩
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png",🇮🇩 Indosiar 🇮🇩
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",🇮🇩 ANTV 🇮🇩
+http://210.210.155.35:80/uq2663/h/h235/index.m3u8
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="http://kamiselaluada.com/img/net.png",🇮🇩 NET TV 🇮🇩
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="RCTI+",INEWS (R+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="🇮🇩 NASIONAL 🇮🇩",INEWS (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="RCTI+",Trans TV CDG
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="🇮🇩 NASIONAL 🇮🇩",Trans TV CDG
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="RCTI+",Trans 7 CDG 
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="🇮🇩 NASIONAL 🇮🇩",Trans 7 CDG 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 //========================================================================
